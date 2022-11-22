@@ -1,0 +1,40 @@
+body {
+opacity: 1;
+   font-size: 20px;
+  width:100%;
+  <!-- background-blend-mode: darken; -->
+  margin-left: 8%;
+  <!-- background-size: cover; -->
+}
+#menu li { /* de list items */
+  display: inline;
+  float: left;
+  background-color: black;
+  color: white;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  border: 1px solid pink;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+li {
+  display:inline-block;
+
+}
+html{
+
+  height: 100%;
+  width: 100%;
+  background-color: skyblue
+}
+h1,h2{
+  color:black;
+  text-align: center;
+}
+.container{
+  width: 100%;
+  border: 2px solid black;
+  padding: 15px;
+}

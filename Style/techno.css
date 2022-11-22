@@ -1,0 +1,50 @@
+body {
+opacity: 1;
+   font-size: 20px;
+  width:100%;
+  <!-- background-blend-mode: darken; -->
+  margin-left: 8%;
+  <!-- background-size: cover; -->
+}
+
+#menu li { /* de list items */
+  display: inline;
+  float: left;
+  background-color: black;
+  color: white;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  border: 1px solid pink;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+li {
+  display:inline-block;
+
+}
+html{
+  background-image: url('C:/Users/27092/Documents/Klasscode/HTML over informatica/Tegre.jpg');
+  background-attachment:fixed;
+  height: 90%;
+  width: 100%;
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  opacity: 0,5;
+
+}
+h1{
+  color:black;
+  text-align: center;
+}
+p{
+  font-size: 30px;
+
+  color:black;
+margin-right: 15%;
+margin-top: 5px;
+
+  text-align: center;
+}
